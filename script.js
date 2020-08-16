@@ -9,3 +9,6 @@ let workDay = {
     "4 PM": "",
     "5 PM": "",
   };
+
+ var a= moment().format('LLLL')
+ console.log(a)
