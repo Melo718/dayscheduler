@@ -1,5 +1,4 @@
 let workDay = {
-    "8 AM": "",
     "9 AM": "",
     "10 AM": "",
     "11 AM": "",
@@ -10,6 +9,3 @@ let workDay = {
     "4 PM": "",
     "5 PM": "",
   };
-  
-var date = new date();
-document.getElementById("currentDay").innerHTML= date;
